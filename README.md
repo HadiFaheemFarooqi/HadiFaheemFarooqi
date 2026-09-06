@@ -1,10 +1,13 @@
 <div align="center">
 
+<img src="assets/banner.gif" width="800">
+
 # Hadi Faheem Farooqi
 
 ### Data Science · Programming · Private WordPress Development
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)](https://www.r-project.org/)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)](https://www.php.net/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square\&logo=wordpress\&logoColor=white)](https://wordpress.org/)
@@ -23,9 +26,9 @@ I also work as a **private WordPress/PHP developer**, building custom websites, 
 ### Focus
 
 ```text
-Data Science       →  Python · SQL · Machine Learning · Analytics
+Data Science       →  Python · R · SQL · Machine Learning · Analytics
 Programming        →  Python · R · PHP · JavaScript
-Web Development    →  WordPress · Custom Plugins · APIs ·
+Web Development    →  WordPress · Custom Plugins · APIs · WooCommerce
 Research           →  Finance · Healthcare · Public Data
 ```
 
